@@ -1,0 +1,30 @@
+{
+  "name": "ray-tracer-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.ts",
+    "ls": "typescript-eslint -c src/color.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod-build": "webpack --stats-error-details"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/estree": "^1.0.6",
+    "@types/node": "^22.8.5",
+    "@types/seedrandom": "^3.0.8",
+    "@typescript-eslint/eslint-plugin": "^8.12.2",
+    "@typescript-eslint/parser": "^8.12.2",
+    "eslint": "^9.13.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.12.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
