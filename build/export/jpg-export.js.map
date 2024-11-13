@@ -1,1 +1,0 @@
-{"version":3,"file":"jpg-export.js","sourceRoot":"","sources":["../../src/export/jpg-export.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAE9B,MAAM,SAAU,SAAQ,gBAAM;IAG1B,YAAY,QAAgB;QACxB,KAAK,EAAE,CAAA;QACP,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;IAED,MAAM,CAAC,OAAe;QAClB,OAAO;IACX,CAAC;CACJ;AAED,kBAAe,SAAS,CAAC"}

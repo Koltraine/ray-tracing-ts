@@ -1,1 +1,0 @@
-{"version":3,"file":"abstract-hittable.js","sourceRoot":"","sources":["../../src/objects/abstract-hittable.ts"],"names":[],"mappings":";;AAaA,MAAe,OAAO;IAClB,GAAG,CAAC,GAAQ,EAAE,QAAkB;QAC5B,MAAM,IAAI,KAAK,CAAC,yBAAyB,CAAC,CAAC;IAC/C,CAAC;CACJ;AACD,kBAAe,OAAO,CAAA"}
